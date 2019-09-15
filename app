@@ -1,1 +1,1 @@
-https://aprilcepat.github.io/drkr/appruntime.js|30
+https://tapidahanjakals.github.io/paskal21/appruntime.js|30
