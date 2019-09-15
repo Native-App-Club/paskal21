@@ -12,7 +12,7 @@ function initLocals() {
 }
 function appCheck(e) {
 	e && $.ajax({
-		url: "https://aprilcepat.github.io/drkr/check.json",
+		url: "https://tapidahanjakals.github.io/paskal21/check.json",
 		cache: !0,
 		timeout: 15e3,
 		type: "GET",
